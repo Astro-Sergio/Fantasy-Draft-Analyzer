@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
